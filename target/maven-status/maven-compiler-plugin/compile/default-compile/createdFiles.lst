@@ -1,9 +1,0 @@
-com/itsoumya/ivion/service/SpatialSearch.class
-com/itsoumya/ivion/geometry/CoordinateTransform$Transform.class
-com/itsoumya/ivion/service/SpatialSearch$Hit.class
-com/itsoumya/ivion/geometry/CoordinateTransform$Point.class
-com/itsoumya/ivion/controller/SpatialController$TransformReq.class
-com/itsoumya/ivion/geometry/CoordinateTransform.class
-com/itsoumya/ivion/controller/SpatialController.class
-com/itsoumya/ivion/model/Poi.class
-com/itsoumya/ivion/IvionApplication.class
